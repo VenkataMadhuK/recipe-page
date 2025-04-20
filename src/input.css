@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Young+Serif&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap");
+@import "tailwindcss";
+
+@theme {
+  --font-youngserif: "Young Serif";
+  --font-outfit: "Outfit";
+  --color-brown: hsl(14, 45%, 36%);
+  --color-ustone-100: hsl(30, 54%, 90%);
+  --color-ustone-150: hsl(30, 18%, 87%);
+  --color-ustone-600: hsl(30, 10%, 34%);
+  --color-ustone-900: hsl(24, 5%, 18%);
+}
